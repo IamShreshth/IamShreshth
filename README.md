@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Shreshth Dhimole — IamShreshth" width="100%" />
+  <img src="assets/neofetch.svg" alt="shreshth@dhimole — system info" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Systems+%26+Automation+Engineer;Turning+15-hour+tasks+into+20-minute+scripts;C+%2F+C%2B%2B+%2F+Python+%2F+CP+Infrastructure;B.Tech+EE+%40+IIT+Jodhpur" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7DCFFF&center=true&vCenter=true&width=620&lines=Systems+%26+Automation+Engineer;Turning+15-hour+tasks+into+20-minute+scripts;C+%2F+C%2B%2B+%2F+Python+%2F+CP+Infrastructure;B.Tech+EE+%40+IIT+Jodhpur" alt="Typing SVG" />
   </a>
 </div>
 
@@ -33,25 +33,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IamShreshth&color=00d4ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=IamShreshth&color=7dcfff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
-
----
-
-## `whoami`
-
-```toml
-shreshth@dhimole ─────────────────────────────────────────────────────────
-  OS       →  B.Tech Electrical Engineering @ IIT Jodhpur
-  Role     →  Transmission & Distribution Intern @ Tata Projects, Noida
-  Focus    →  Systems Programming · CLI Tooling · Automation Pipelines
-  CP       →  Codeforces Active — algorithmic edge cases are my hobby
-  Stack    →  C · C++ · Python · SQL · JavaScript · React
-  Contact  →  shreshthdhimole@gmail.com
-───────────────────────────────────────────────────────────────────────────
-```
-
-I build tools that cut through complexity — not just solutions, but **systems**. Whether that's writing C parsers that outrun Python equivalents or engineering pipelines that compress 15-hour workflows into 20 minutes, I optimize for speed, reliability, and zero-friction execution.
 
 ---
 
@@ -59,115 +42,83 @@ I build tools that cut through complexity — not just solutions, but **systems*
 
 <div align="center">
 
-**Languages**
-
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend & Tools**
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<br/>
 
-### ⚙️ AutoSetter
-> *OA problem → Polygon-ready package. Automatically.*
+<div align="center">
 
-**Problem:** Creating a packaged Codeforces problem manually takes 5–15 hours — formatting the statement, writing test cases, stress testing, and uploading to Polygon is a brutal, repetitive grind for setters.
+### ⚙️ AutoSetter — *OA problem in. Polygon-ready package out.*
 
-**Solution:** An end-to-end Python automation pipeline. Paste any OA problem text → AutoSetter handles everything: statement formatting, test case generation, solution scripts, stress testing, and Polygon upload.
+</div>
 
-**Impact: 5–15 hours → under 20 minutes. Every single time.**
+> **The problem:** Creating a packaged Codeforces problem manually takes **5 to 15 hours**. Formatting the statement, writing test cases, building the solution, stress testing it, and then uploading everything to Polygon — it's a brutal, repetitive grind that every setter dreads.
 
-`Python` `Automation` `CP Infrastructure` `Polygon API`
+> **What I built:** An end-to-end automation pipeline. You paste the OA problem text. AutoSetter handles everything — statement formatting, test case generation, solution scripts, stress testing, and Polygon upload — without you touching a single file manually.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devlup-labs/AutoSetter)
+> **The result: 5–15 hours → under 20 minutes. Every time.**
 
-  </td>
-  <td width="50%" valign="top">
+<div align="center">
 
-### 📂 File Organiser
-> *Zero-error, cross-platform directory automation.*
+`Python` `Pipeline Automation` `CP Infrastructure` `Polygon API`
 
-**Problem:** File organization scripts routinely break across OS boundaries — macOS quarantine attributes, deep permission trees, and inconsistent path handling cause silent failures.
+[![View AutoSetter](https://img.shields.io/badge/View_AutoSetter-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devlup-labs/AutoSetter)
 
-**Solution:** A robust Python CLI utility with extensible config rules, a `--dry-run` mode for safe preview, granular logging per operation, and explicit handling for macOS quarantine metadata and directory permissions.
+</div>
 
-**Impact:** Reliable, repeatable multi-directory organization with full audit logs — no unexpected deletions.
+---
 
-`Python` `CLI Architecture` `OS Module` `Cross-Platform`
+<div align="center">
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IamShreshth/File-Organiser)
+### 🏗️ Tata Projects Limited — *Transmission & Distribution Intern*
 
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</div>
 
-### 💬 WhatsApp Chat Analyzer
-> *C-speed log parsing where Python overhead is not an option.*
+> **Where:** Noida, India — Onsite. May 2026 – Present.
 
-**Problem:** Python-based chat analyzers choke on massive `.txt` exports with thousands of multi-line messages — fragile regex, slow I/O, and inaccurate multiline state handling.
+> **What I do:** On-site execution support for large-scale electrical infrastructure operations. Working directly with cross-functional engineering teams on transmission and distribution systems — analyzing technical drawings, monitoring electrical systems, ensuring compliance with engineering standards, and building tooling to automate daily site reporting and log analysis pipelines.
 
-**Solution:** Built entirely in C. Uses a custom string tokenization pipeline (`sscanf` + pointer arithmetic), stateful processing to correctly handle multi-line WhatsApp messages, and an array-based histogram algorithm for time-series engagement binning.
+> **The environment:** 10,000+ kV infrastructure. The margins for error are not startup-style margins.
 
-**Impact: 95% accuracy** on peak engagement hour extraction with near-instant execution on files of any size.
+<div align="center">
 
-`C` `Pointer Arithmetic` `Stateful Parsing` `Data Structures`
+`Electrical Systems` `Power Infrastructure` `AutoCAD` `Technical Documentation` `Python Automation`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IamShreshth/WhatsApp-Chat-Analyzer)
-
-  </td>
-  <td width="50%" valign="top">
-
-### 🏗️ Currently Building
-> *Infrastructure meets code.*
-
-Interning at **Tata Projects Limited** (Transmission & Distribution, Noida) — on-site execution for large-scale electrical infrastructure. Applying EE fundamentals while building tooling to automate daily reporting and log analysis pipelines on the side.
-
-**Stack in use:** Python · AutoCAD · Technical Drawing Analysis · Cross-functional Engineering
-
-> *"The best automation is the one no one has to think about."*
-
-  </td>
-  </tr>
-</table>
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamShreshth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamShreshth&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="Top Languages" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IamShreshth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7dcfff&icon_color=ff9e64&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamShreshth&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7dcfff&text_color=C9D1D9" alt="Top Languages" width="38%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=IamShreshth&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak" width="55%" />
+  <img src="https://streak-stats.demolab.com?user=IamShreshth&theme=tokyonight&hide_border=true&background=0D1117&ring=7dcfff&fire=ff9e64&currStreakLabel=7dcfff" alt="GitHub Streak" width="55%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamShreshth&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamShreshth&theme=tokyo-night&bg_color=0D1117&color=7dcfff&line=7dcfff&point=ff9e64&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
@@ -178,30 +129,21 @@ Interning at **Tata Projects Limited** (Transmission & Distribution, Noida) — 
 learning = {
     "systems":    ["memory allocators", "socket programming", "kernel internals"],
     "algorithms": ["advanced graph theory", "segment trees", "competitive math"],
-    "hardware":   ["embedded systems", "hardware-software co-design", "VLSI basics"],
-    "building":   ["AutoSetter v2", "EE log telemetry tooling", "CLI template generator"],
+    "hardware":   ["embedded systems", "hardware-software co-design", "VLSI"],
+    "building":   ["AutoSetter v2", "EE telemetry tooling", "CP template CLI"],
 }
 ```
 
 ---
 
-## 🤝 Let's Connect
-
-I'm open to collaborating on:
-- 🔧 **CLI tools & automation** — anything that eliminates repetitive engineering work
-- 🏆 **CP infrastructure** — problem setting, judging tools, automated test suites  
-- ⚡ **Electrical + software crossover** — telemetry, monitoring, hardware-adjacent tooling
-- 🧩 **Open source** — especially systems-level C/C++/Python projects
+<br/>
 
 <div align="center">
 
-| Platform | Link |
-|:---:|:---|
-| 📧 Email | [shreshthdhimole@gmail.com](mailto:shreshthdhimole@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/shreshthdhimole](https://www.linkedin.com/in/shreshthdhimole/) |
-| 🐦 X / Twitter | [@D_Shreshth](https://x.com/D_Shreshth) |
-| 🌐 Linktree | [linktr.ee/shreshthdhimole](https://linktr.ee/shreshthdhimole) |
-| 📸 Instagram | [@shreshth.2008](https://www.instagram.com/shreshth.2008) |
+*"The world is not destroyed by the people who do evil.*
+*It is destroyed by the people who watch — and do nothing, because they don't want to seem rude."*
+
+— **James Baldwin** *(adjusted for the internet age)*
 
 </div>
 

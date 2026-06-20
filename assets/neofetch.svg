@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="540" viewBox="0 0 860 540">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+      text { font-family: "JetBrains Mono", "Courier New", monospace; font-size: 14.5px; }
+    </style>
+  </defs>
+  <!-- Background -->
+  <rect width="860" height="540" fill="#0d1117" rx="10"/>
+  <!-- Subtle border -->
+  <rect width="860" height="540" fill="none" stroke="#30363d" stroke-width="1" rx="10"/>
+
+  <!-- Title line -->
+  <text x="24" y="40" fill="#e6edf3" font-weight="700" font-size="15.5">shreshth@dhimole</text>
+  <line x1="190" y1="36" x2="836" y2="36" stroke="#30363d" stroke-width="1.2"/>
+
+  <!-- OS -->
+  <text x="24" y="68"><tspan fill="#f7768e">.</tspan><tspan fill="#7dcfff" dx="4"> OS</tspan><tspan fill="#565f89">:</tspan><tspan fill="#565f89" dx="4">........................................</tspan><tspan fill="#c0caf5" dx="4">macOS Sequoia  /  IIT Jodhpur Linux</tspan></text>
+
+  <!-- Uptime -->
+  <text x="24" y="92"><tspan fill="#f7768e">.</tspan><tspan fill="#7dcfff" dx="4"> Uptime</tspan><tspan fill="#565f89">:</tspan><tspan fill="#565f89" dx="4">......................................</tspan><tspan fill="#c0caf5" dx="4">18 years, 3 months, 25 days</tspan></text>
+
+  <!-- Host -->
+  <text x="24" y="116"><tspan fill="#f7768e">.</tspan><tspan fill="#7dcfff" dx="4"> Host</tspan><tspan fill="#565f89">:</tspan><tspan fill="#565f89" dx="4">......................................</tspan><tspan fill="#c0caf5" dx="4">Indian Institute of Technology Jodhpur</tspan></text>
+
+  <!-- Kernel -->
+  <text x="24" y="140"><tspan fill="#f7768e">.</tspan><tspan fill="#7dcfff" dx="4"> Kernel</tspan><tspan fill="#565f89">:</tspan><tspan fill="#565f89" dx="4">.........................</tspan><tspan fill="#c0caf5" dx="4">B.Tech Electrical Engineering — B25EE1037</tspan></text>
+
+  <!-- IDE -->
+  <text x="24" y="164"><tspan fill="#f7768e">.</tspan><tspan fill="#7dcfff" dx="4"> IDE</tspan><tspan fill="#565f89">:</tspan><tspan fill="#565f89" dx="4">......................................</tspan><tspan fill="#c0caf5" dx="4">VS Code  /  Neovim  /  Terminal</tspan></text>
+
+  <!-- Blank -->
+  <text x="24" y="188"><tspan fill="#565f89">.</tspan></text>
+
+  <!-- Languages.Programming -->
+  <text x="24" y="212"><tspan fill="#f7768e">.</tspan><tspan fill="#ff9e64" dx="4"> Languages.Programming</tspan><tspan fill="#565f89">:</tspan><tspan fill="#565f89" dx="4">.............</tspan><tspan fill="#9ece6a" dx="4">C,  C++  (STL),  Python,  SQL,  JS</tspan></text>
+
+  <!-- Languages.Computer -->
+  <text x="24" y="236"><tspan fill="#f7768e">.</tspan><tspan fill="#ff9e64" dx="4"> Languages.Computer</tspan><tspan fill="#565f89">:</tspan><tspan fill="#565f89" dx="4">.................</tspan><tspan fill="#9ece6a" dx="4">LaTeX,  HTML,  Markdown,  YAML</tspan></text>
+
+  <!-- Languages.Real -->
+  <text x="24" y="260"><tspan fill="#f7768e">.</tspan><tspan fill="#ff9e64" dx="4"> Languages.Real</tspan><tspan fill="#565f89">:</tspan><tspan fill="#565f89" dx="4">.....................</tspan><tspan fill="#9ece6a" dx="4">English,  Hindi</tspan></text>
+
+  <!-- Blank -->
+  <text x="24" y="284"><tspan fill="#565f89">.</tspan></text>
+
+  <!-- Hobbies.Software -->
+  <text x="24" y="308"><tspan fill="#bb9af7">%</tspan><tspan fill="#7dcfff" dx="4"> Hobbies.Software</tspan><tspan fill="#565f89">:</tspan><tspan fill="#565f89" dx="4">..................</tspan><tspan fill="#e0af68" dx="4">CLI Tooling,  Automation,  CP Infra</tspan></text>
+
+  <!-- Hobbies.Hardware -->
+  <text x="24" y="332"><tspan fill="#bb9af7">%</tspan><tspan fill="#7dcfff" dx="4"> Hobbies.Hardware</tspan><tspan fill="#565f89">:</tspan><tspan fill="#565f89" dx="4">.................</tspan><tspan fill="#e0af68" dx="4">Electrical Systems,  Power Distribution</tspan></text>
+
+  <!-- Hobbies.Others -->
+  <text x="24" y="356"><tspan fill="#bb9af7">%</tspan><tspan fill="#7dcfff" dx="4"> Hobbies.Others</tspan><tspan fill="#565f89">:</tspan><tspan fill="#565f89" dx="4">...................</tspan><tspan fill="#e0af68" dx="4">Public Speaking,  Hackathons,  Music</tspan></text>
+
+  <!-- Contact separator -->
+  <text x="24" y="385" fill="#565f89" font-weight="700">- Contact </text>
+  <line x1="108" y1="381" x2="836" y2="381" stroke="#30363d" stroke-width="1.2"/>
+
+  <!-- Email Personal -->
+  <text x="24" y="410"><tspan fill="#f7768e">.</tspan><tspan fill="#7dcfff" dx="4"> Email.Personal</tspan><tspan fill="#565f89">:</tspan><tspan fill="#565f89" dx="4">..................</tspan><tspan fill="#c0caf5" dx="4">shreshthdhimole@gmail.com</tspan></text>
+
+  <!-- Email Work -->
+  <text x="24" y="434"><tspan fill="#f7768e">.</tspan><tspan fill="#7dcfff" dx="4"> Email.Work</tspan><tspan fill="#565f89">:</tspan><tspan fill="#565f89" dx="4">.....................  </tspan><tspan fill="#c0caf5" dx="4">b25ee1037@iitj.ac.in</tspan></text>
+
+  <!-- Instagram -->
+  <text x="24" y="458"><tspan fill="#f7768e">.</tspan><tspan fill="#7dcfff" dx="4"> Instagram</tspan><tspan fill="#565f89">:</tspan><tspan fill="#565f89" dx="4">........................</tspan><tspan fill="#c0caf5" dx="4">@shreshth.2008</tspan></text>
+
+  <!-- Twitter -->
+  <text x="24" y="482"><tspan fill="#f7768e">.</tspan><tspan fill="#7dcfff" dx="4"> Twitter / X</tspan><tspan fill="#565f89">:</tspan><tspan fill="#565f89" dx="4">.....................</tspan><tspan fill="#c0caf5" dx="4">@D_Shreshth</tspan></text>
+
+  <!-- Discord -->
+  <text x="24" y="506"><tspan fill="#f7768e">.</tspan><tspan fill="#7dcfff" dx="4"> Discord</tspan><tspan fill="#565f89">:</tspan><tspan fill="#565f89" dx="4">.........................</tspan><tspan fill="#c0caf5" dx="4">jerry2602.</tspan></text>
+
+  <!-- Linktree -->
+  <text x="24" y="530"><tspan fill="#f7768e">.</tspan><tspan fill="#7dcfff" dx="4"> Linktree</tspan><tspan fill="#565f89">:</tspan><tspan fill="#565f89" dx="4">........................</tspan><tspan fill="#c0caf5" dx="4">linktr.ee/shreshthdhimole</tspan></text>
+</svg>
