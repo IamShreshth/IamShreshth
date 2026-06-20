@@ -127,13 +127,6 @@
 
 <br/>
 
-<!-- Full account lifetime heatmap — all months since account was created -->
-<div align="center">
-  <img src="https://ghchart.rshah.org/7dcfff/IamShreshth" alt="Full Contribution Heatmap — All Time" width="100%" />
-</div>
-
-<br/>
-
 <!-- Month-by-month commit breakdown -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IamShreshth&theme=tokyonight" alt="Monthly Contribution Breakdown" width="100%" />
