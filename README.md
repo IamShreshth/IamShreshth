@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling&text=Welcome%20to%20Shreshth%20world&fontSize=45" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling&text=Welcome%20to%20Shreshth's%20world&fontSize=45" width="100%"/>
 </div>
   <img src="assets/profile.svg" alt="shreshth.neofetch" width="100%" />
 </div>
@@ -9,7 +9,11 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7DCFFF&center=true&vCenter=true&width=620&lines=Systems+%26+Automation+Engineer;Turning+15-hour+tasks+into+20-minute+scripts;C+%2F+C%2B%2B+%2F+Python+%2F+CP+Infrastructure;B.Tech+EE+%40+IIT+Jodhpur" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7DCFFF&center=true&vCenter=true&width=620&lines=
+    Passionately+Curious;
+    B.Tech+EE+%40+IIT+Jodhpur;
+    Turning+15-hour+tasks+into+20-minute+scripts;
+    C+%2F+C%2B%2B+%2F+Competitive+Programming alt="Typing SVG" />
   </a>
 </div>
 
@@ -116,7 +120,7 @@
 
 > **What I do:** On-site execution support for large-scale electrical infrastructure operations. Working directly with cross-functional engineering teams on transmission and distribution systems — analyzing technical drawings, monitoring electrical systems, ensuring compliance with engineering standards, and building tooling to automate daily site reporting and log analysis pipelines.
 
-> **The environment:** 10,000+ kV infrastructure. The margins for error are not startup-style margins.
+> **The environment:** Understanding the Power System of How Wind energy of 33kv getting tranferred into 220kv single bay Substation
 
 <div align="center">
 
@@ -177,6 +181,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&animation=twinkling" width="100%"/>
   <br/>
-  <h3>telll your MOM:</h3>
-  <h3>Shreshth said Hi :) &lt;3</h3>
+  <h3>Tell your mom:</h3>
+  <h3>Shreshth said Hi :)</h3>
 </div>
