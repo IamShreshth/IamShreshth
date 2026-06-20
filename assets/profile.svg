@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&amp;display=swap');
+      .code {
+        font-family: 'JetBrains Mono', 'Fira Code', monospace;
+        font-size: 15.5px;
+      }
+      .key-primary { fill: #7aa2f7; font-weight: bold; }
+      .key-secondary { fill: #bb9af7; font-weight: 500; }
+      .key-tertiary { fill: #b4f9f8; }
+      .colon { fill: #89ddff; }
+      .string { fill: #9ece6a; }
+      .bracket { fill: #f7768e; font-weight: bold; }
+      .comma { fill: #e0af68; }
+      .comment { fill: #565f89; font-style: italic; }
+      .window-title { fill: #787c99; font-size: 13.5px; font-weight: 500; }
+    </style>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0e14" />
+      <stop offset="100%" stop-color="#1a1f2c" />
+    </linearGradient>
+    <!-- Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#bb9af7" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#7db9f7" stop-opacity="0.6" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="600" height="600" fill="url(#bgGrad)" rx="16" />
+  
+  <!-- Sleek Glowing Border -->
+  <rect width="600" height="600" fill="none" stroke="url(#borderGrad)" stroke-width="2.5" rx="16" />
+
+  <!-- Code Window Header (Chrome Style) -->
+  <circle cx="28" cy="30" r="6" fill="#ff5f56" />
+  <circle cx="48" cy="30" r="6" fill="#ffbd2e" />
+  <circle cx="68" cy="30" r="6" fill="#27c93f" />
+  
+  <!-- File tab/title -->
+  <text x="300" y="34" text-anchor="middle" class="code window-title">shreshth.yaml</text>
+  <line x1="20" y1="52" x2="580" y2="52" stroke="#30363d" stroke-width="1.2" stroke-dasharray="2 2" />
+
+  <!-- Code Display -->
+  <!-- Line 1: shreshth: -->
+  <text x="35" y="90" class="code"><tspan class="key-primary">shreshth</tspan><tspan class="colon">:</tspan></text>
+  
+  <!-- Line 2:   developer: -->
+  <text x="35" y="113" class="code"><tspan class="key-secondary">  developer</tspan><tspan class="colon">:</tspan></text>
+  
+  <!-- Line 3:     name: "Shreshth Dhimole" -->
+  <text x="35" y="136" class="code"><tspan class="key-tertiary">    name</tspan><tspan class="colon">: </tspan><tspan class="string">"Shreshth Dhimole"</tspan></text>
+  
+  <!-- Line 4:     role: "Systems & Automation Engineer" -->
+  <text x="35" y="159" class="code"><tspan class="key-tertiary">    role</tspan><tspan class="colon">: </tspan><tspan class="string">"Systems &amp; Automation Engineer"</tspan></text>
+  
+  <!-- Line 5:     location: "IIT Jodhpur, India" -->
+  <text x="35" y="182" class="code"><tspan class="key-tertiary">    location</tspan><tspan class="colon">: </tspan><tspan class="string">"IIT Jodhpur, India"</tspan></text>
+  
+  <!-- Line 6:     uptime: "18y 3m 25d" -->
+  <text x="35" y="205" class="code"><tspan class="key-tertiary">    uptime</tspan><tspan class="colon">: </tspan><tspan class="string">"18y 3m 25d"</tspan></text>
+
+  <!-- Line 7:   education: -->
+  <text x="35" y="228" class="code"><tspan class="key-secondary">  education</tspan><tspan class="colon">:</tspan></text>
+  
+  <!-- Line 8:     institute: "IIT Jodhpur" -->
+  <text x="35" y="251" class="code"><tspan class="key-tertiary">    institute</tspan><tspan class="colon">: </tspan><tspan class="string">"IIT Jodhpur"</tspan></text>
+  
+  <!-- Line 9:     major: "B.Tech EE" -->
+  <text x="35" y="274" class="code"><tspan class="key-tertiary">    major</tspan><tspan class="colon">: </tspan><tspan class="string">"B.Tech EE"</tspan></text>
+  
+  <!-- Line 10:     roll_no: "B25EE1037" -->
+  <text x="35" y="297" class="code"><tspan class="key-tertiary">    roll_no</tspan><tspan class="colon">: </tspan><tspan class="string">"B25EE1037"</tspan></text>
+
+  <!-- Line 11:   skills: -->
+  <text x="35" y="320" class="code"><tspan class="key-secondary">  skills</tspan><tspan class="colon">:</tspan></text>
+  
+  <!-- Line 12:     languages: ["C", "C++", "Go", "Rust", "Python", "JS"] -->
+  <text x="35" y="343" class="code"><tspan class="key-tertiary">    languages</tspan><tspan class="colon">: </tspan><tspan class="bracket">[</tspan><tspan class="string">"C"</tspan><tspan class="comma">, </tspan><tspan class="string">"C++"</tspan><tspan class="comma">, </tspan><tspan class="string">"Go"</tspan><tspan class="comma">, </tspan><tspan class="string">"Rust"</tspan><tspan class="comma">, </tspan><tspan class="string">"Python"</tspan><tspan class="comma">, </tspan><tspan class="string">"JS"</tspan><tspan class="bracket">]</tspan></text>
+  
+  <!-- Line 13:     databases: ["MongoDB", "SQLite", "PostgreSQL"] -->
+  <text x="35" y="366" class="code"><tspan class="key-tertiary">    databases</tspan><tspan class="colon">: </tspan><tspan class="bracket">[</tspan><tspan class="string">"MongoDB"</tspan><tspan class="comma">, </tspan><tspan class="string">"SQLite"</tspan><tspan class="comma">, </tspan><tspan class="string">"PostgreSQL"</tspan><tspan class="bracket">]</tspan></text>
+  
+  <!-- Line 14:     tools: ["Docker", "Git", "GitHub", "Linux"] -->
+  <text x="35" y="389" class="code"><tspan class="key-tertiary">    tools</tspan><tspan class="colon">: </tspan><tspan class="bracket">[</tspan><tspan class="string">"Docker"</tspan><tspan class="comma">, </tspan><tspan class="string">"Git"</tspan><tspan class="comma">, </tspan><tspan class="string">"GitHub"</tspan><tspan class="comma">, </tspan><tspan class="string">"Linux"</tspan><tspan class="bracket">]</tspan></text>
+  
+  <!-- Line 15:     ai_ml: ["Ollama"] -->
+  <text x="35" y="412" class="code"><tspan class="key-tertiary">    ai_ml</tspan><tspan class="colon">: </tspan><tspan class="bracket">[</tspan><tspan class="string">"Ollama"</tspan><tspan class="bracket">]</tspan></text>
+
+  <!-- Line 16:   platforms: -->
+  <text x="35" y="435" class="code"><tspan class="key-secondary">  platforms</tspan><tspan class="colon">:</tspan></text>
+  
+  <!-- Line 17:     codeforces: "Shreshth_Jerry" -->
+  <text x="35" y="458" class="code"><tspan class="key-tertiary">    codeforces</tspan><tspan class="colon">: </tspan><tspan class="string">"Shreshth_Jerry"</tspan></text>
+  
+  <!-- Line 18:     github: "IamShreshth" -->
+  <text x="35" y="481" class="code"><tspan class="key-tertiary">    github</tspan><tspan class="colon">: </tspan><tspan class="string">"IamShreshth"</tspan></text>
+  
+  <!-- Line 19:     linkedin: "shreshthdhimole" -->
+  <text x="35" y="504" class="code"><tspan class="key-tertiary">    linkedin</tspan><tspan class="colon">: </tspan><tspan class="string">"shreshthdhimole"</tspan></text>
+  
+  <!-- Line 20:     twitter: "D_Shreshth" -->
+  <text x="35" y="527" class="code"><tspan class="key-tertiary">    twitter</tspan><tspan class="colon">: </tspan><tspan class="string">"D_Shreshth"</tspan></text>
+  
+  <!-- Line 21:     discord: "jerry2602." -->
+  <text x="35" y="550" class="code"><tspan class="key-tertiary">    discord</tspan><tspan class="colon">: </tspan><tspan class="string">"jerry2602."</tspan></text>
+</svg>
