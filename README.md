@@ -1,8 +1,8 @@
 <div align="center">
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling&text=Welcome%20to%20Shreshth%20world&fontSize=45" width="100%"/>
 </div>
-  <img src="assets/profile.svg" alt="shreshth.yaml" width="100%" />
+  <img src="assets/profile.svg" alt="shreshth.neofetch" width="100%" />
 </div>
 
 <br/>
@@ -174,26 +174,9 @@
 
 ---
 
-## ⚡ Current Status
-
-```text
-$ cat current_focus.txt
-
-[SYSTEMS]
-> Memory Allocators | Socket Programming | Kernel Internals
-
-[ALGORITHMS]
-> Advanced Graph Theory | Segment Trees | Competitive Math
-
-[HARDWARE]
-> Embedded Systems | Hardware-Software Co-design | VLSI
-
-[BUILDING]
-> AutoSetter v2 | EE Telemetry Tooling | CP Template CLI
-```
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&animation=twinkling" width="100%"/>
+  <br/>
+  <h3>telll your MOM:</h3>
+  <h3>Shreshth said Hi :) &lt;3</h3>
 </div>
