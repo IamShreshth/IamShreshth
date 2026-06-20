@@ -1,4 +1,7 @@
 <div align="center">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling" width="100%"/>
+</div>
   <img src="assets/neofetch.svg" alt="shreshth@dhimole — system info" width="100%" />
 </div>
 
@@ -56,7 +59,7 @@
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Currently Working On
 
 <br/>
 
@@ -66,6 +69,8 @@
 
 </div>
 
+> **TimeLine:** May 2026 – Present
+
 > **The problem:** Creating a packaged Codeforces problem manually takes **5 to 15 hours**. Formatting the statement, writing test cases, building the solution, stress testing it, and then uploading everything to Polygon — it's a brutal, repetitive grind that every setter dreads.
 
 > **What I built:** An end-to-end automation pipeline. You paste the OA problem text. AutoSetter handles everything — statement formatting, test case generation, solution scripts, stress testing, and Polygon upload — without you touching a single file manually.
@@ -74,7 +79,7 @@
 
 <div align="center">
 
-`Python` `Pipeline Automation` `CP Infrastructure` `Polygon API`
+`GO` `Rust` `Ollama` `RAG` `Pipeline Automation` `CP Infrastructure` `Polygon API`
 
 [![View AutoSetter](https://img.shields.io/badge/View_AutoSetter-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devlup-labs/AutoSetter)
 
@@ -88,7 +93,7 @@
 
 </div>
 
-> **Where:** Noida, India — Onsite. May 2026 – Present.
+> **Where:** Noida, India — Onsite. June 2026 – Present.
 
 > **What I do:** On-site execution support for large-scale electrical infrastructure operations. Working directly with cross-functional engineering teams on transmission and distribution systems — analyzing technical drawings, monitoring electrical systems, ensuring compliance with engineering standards, and building tooling to automate daily site reporting and log analysis pipelines.
 
@@ -96,7 +101,7 @@
 
 <div align="center">
 
-`Electrical Systems` `Power Infrastructure` `AutoCAD` `Technical Documentation` `Python Automation`
+`Power Systems` `Power Infrastructure` `AutoCAD` `ETAP` `Substation` `Core-Engineering`
 
 </div>
 
@@ -150,31 +155,25 @@
 
 ---
 
-## 🧠 Currently Exploring
+## ⚡ Current Status
 
-```python
-learning = {
-    "systems":    ["memory allocators", "socket programming", "kernel internals"],
-    "algorithms": ["advanced graph theory", "segment trees", "competitive math"],
-    "hardware":   ["embedded systems", "hardware-software co-design", "VLSI"],
-    "building":   ["AutoSetter v2", "EE telemetry tooling", "CP template CLI"],
-}
+```text
+$ cat current_focus.txt
+
+[SYSTEMS]
+> Memory Allocators | Socket Programming | Kernel Internals
+
+[ALGORITHMS]
+> Advanced Graph Theory | Segment Trees | Competitive Math
+
+[HARDWARE]
+> Embedded Systems | Hardware-Software Co-design | VLSI
+
+[BUILDING]
+> AutoSetter v2 | EE Telemetry Tooling | CP Template CLI
 ```
 
 ---
-
-<br/>
-
-<div align="center">
-
-*"The world is not destroyed by the people who do evil.*
-*It is destroyed by the people who watch — and do nothing, because they don't want to seem rude."*
-
-— **James Baldwin** *(adjusted for the internet age)*
-
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
