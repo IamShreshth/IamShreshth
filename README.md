@@ -115,10 +115,44 @@
   <img src="https://streak-stats.demolab.com?user=IamShreshth&theme=tokyonight&hide_border=true&background=0D1117&ring=7dcfff&fire=ff9e64&currStreakLabel=7dcfff" alt="GitHub Streak" width="55%" />
 </div>
 
-<br/>
+---
+
+## 📅 Contribution History — Since Day One
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamShreshth&theme=tokyo-night&bg_color=0D1117&color=7dcfff&line=7dcfff&point=ff9e64&hide_border=true" alt="Contribution Graph" width="100%" />
+
+*Every month. Every commit. From account creation.*
+
+</div>
+
+<br/>
+
+<!-- Full account lifetime heatmap — all months since account was created -->
+<div align="center">
+  <img src="https://ghchart.rshah.org/7dcfff/IamShreshth" alt="Full Contribution Heatmap — All Time" width="100%" />
+</div>
+
+<br/>
+
+<!-- Month-by-month commit breakdown -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IamShreshth&theme=tokyonight" alt="Monthly Contribution Breakdown" width="100%" />
+</div>
+
+<br/>
+
+<!-- Language + commit distribution + productive hours -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamShreshth&theme=tokyonight" alt="Repos Per Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IamShreshth&theme=tokyonight" alt="Most Commit Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IamShreshth&theme=tokyonight&utcOffset=5.5" alt="Productive Hours (IST)" width="32%" />
+</div>
+
+<br/>
+
+<!-- Full activity graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamShreshth&theme=tokyo-night&bg_color=0D1117&color=7dcfff&line=7dcfff&point=ff9e64&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%" />
 </div>
 
 ---
