@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling&text=Welcome%20to%20Shreshth's%20world&fontSize=45" width="100%"/>
 </div>
+
 ```text
 shreshth@dhimole
 --------------------------------------------------------------------------------
@@ -29,6 +30,7 @@ shreshth@dhimole
 . Discord.............................................................jerry2602.
 . Linktree.............................................linktr.ee/shreshthdhimole
 ```
+
 <br/>
 
 <div align="center">
