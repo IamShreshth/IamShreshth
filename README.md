@@ -4,31 +4,31 @@
 
 ```text
 shreshth@dhimole
---------------------------------------------------------------------------------
-. OS..........................................................macOS Tahoe 26.0,1
-. Host....................................Indian Institute of Technology Jodhpur
-. Kernel...........................................B.Tech Electrical Engineering
-. IDE......................................................VS Code / Antigravity
-. Tools.................................Docker  /  Git  /  Linux  /  Polygon API
-. Databases..........................PostgreSQL  /  MongoDB  /  SQLite  /  Redis
-. Advanced..................RAG / Generative AI / Ollama  /  Cryptography / CDNs
+----------------------------------------------------------------------------------------------------
+. OS..............................................................................macOS Tahoe 26.0,1
+. Host........................................................Indian Institute of Technology Jodhpur
+. Kernel...............................................................B.Tech Electrical Engineering
+. IDE..........................................................................VS Code / Antigravity
+. Tools.....................................................Docker  /  Git  /  Linux  /  Polygon API
+. Databases..............................................PostgreSQL  /  MongoDB  /  SQLite  /  Redis
+. Advanced......................................RAG / Generative AI / Ollama  /  Cryptography / CDNs
 .
-. Languages.Programming..................C,  C++,  Go,  Rust,  Python,  SQL,  JS
-. Languages.Computer..............................LaTeX,  HTML,  Markdown,  YAML
-. Languages.Real.................................................English,  Hindi
+. Languages.Programming......................................C,  C++,  Go,  Rust,  Python,  SQL,  JS
+. Languages.Computer..................................................LaTeX,  HTML,  Markdown,  YAML
+. Languages.Real.....................................................................English,  Hindi
 .
-% Hobbies.Software...................Open Source (Redis),  CP Infra,  Automation
-% Hobbies.Hardware................Substation Design,  Electrical Systems,  SCADA
-% Hobbies.Others.........Competitive Programming (Pupil), PR & Marketing, LitSoc
-- Contact ----------------------------------------------------------------------
-. Email.Personal.......................................shreshthdhimole@gmail.com
-. Email.Work................................................b25ee1037@iitj.ac.in
-. GitHub..................................................github.com/IamShreshth
-. LinkedIn.......................................linkedin.com/in/shreshthdhimole
-. Instagram.......................................................@shreshth.2008
-. Twitter / X........................................................@D_Shreshth
-. Discord.............................................................jerry2602.
-. Linktree.............................................linktr.ee/shreshthdhimole
+% Hobbies.Software.......................................Open Source (Redis),  CP Infra,  Automation
+% Hobbies.Hardware....................................Substation Design,  Electrical Systems,  SCADA
+% Hobbies.Others.............................Competitive Programming (Pupil), PR & Marketing, LitSoc
+- Contact ------------------------------------------------------------------------------------------
+. Email.Personal...........................................................shreshthdhimole@gmail.com
+. Email.Work....................................................................b25ee1037@iitj.ac.in
+. GitHub......................................................................github.com/IamShreshth
+. LinkedIn...........................................................linkedin.com/in/shreshthdhimole
+. Instagram...........................................................................@shreshth.2008
+. Twitter / X............................................................................@D_Shreshth
+. Discord.................................................................................jerry2602.
+. Linktree.................................................................linktr.ee/shreshthdhimole
 ```
 
 <br/>
