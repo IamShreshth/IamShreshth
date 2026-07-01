@@ -68,9 +68,7 @@ shreshth@dhimole
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IamShreshth&color=7dcfff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+
 
 ---
 
