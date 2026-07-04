@@ -35,7 +35,7 @@ shreshth@dhimole
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7DCFFF&center=true&vCenter=true&width=620&lines=Passionately+Curious;B.Tech+EE+%40+IIT+Jodhpur;Turning+15-hour+tasks+into+20-minute+scripts;C+%2F+C%2B%2B+%2F+Competitive+Programming" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7DCFFF&center=true&vCenter=true&width=620&lines=B.Tech+EE+%40IITJodhpur+2029;Passionately+Curious;Obsession+Driven;I+love+Kids+%26+their+Moms+too+%3A)" alt="Typing SVG" />
   </a>
 </div>
 
