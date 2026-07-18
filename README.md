@@ -22,6 +22,7 @@ shreshth@dhimole
 % Hobbies.Others.............................Competitive Programming (Pupil), PR & Marketing, LitSoc
 - Contact 
 . GitHub......................................................................github.com/IamShreshth
+. Instagram...........................................................................@shreshth.2008
 . Twitter / X............................................................................@D_Shreshth
 . Discord.................................................................................jerry2602.
 ```
@@ -40,11 +41,11 @@ shreshth@dhimole
   <a href="https://www.linkedin.com/in/shreshthdhimole/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://codeforces.com/profile/Shreshth_Jerry">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
   <a href="https://x.com/D_Shreshth">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.instagram.com/shreshth.2008">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 
