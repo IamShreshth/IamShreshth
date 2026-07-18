@@ -46,15 +46,6 @@ shreshth@dhimole
   <a href="https://x.com/D_Shreshth">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="mailto:shreshthdhimole@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linktr.ee/shreshthdhimole">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
-  </a>
-  <a href="https://www.instagram.com/shreshth.2008">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
 </div>
 
 <br/>
