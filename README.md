@@ -21,14 +21,9 @@ shreshth@dhimole
 % Hobbies.Hardware....................................Substation Design,  Electrical Systems,  SCADA
 % Hobbies.Others.............................Competitive Programming (Pupil), PR & Marketing, LitSoc
 - Contact 
-. Email.Personal...........................................................shreshthdhimole@gmail.com
-. Email.Work....................................................................b25ee1037@iitj.ac.in
 . GitHub......................................................................github.com/IamShreshth
-. LinkedIn...........................................................linkedin.com/in/shreshthdhimole
-. Instagram...........................................................................@shreshth.2008
 . Twitter / X............................................................................@D_Shreshth
 . Discord.................................................................................jerry2602.
-. Linktree.................................................................linktr.ee/shreshthdhimole
 ```
 
 <br/>
