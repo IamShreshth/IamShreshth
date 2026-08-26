@@ -19,7 +19,7 @@ shreshth@dhimole
 .
 % Hobbies.Software.......................................Open Source (Redis),  CP Infra,  Automation
 % Hobbies.Hardware....................................Substation Design,  Electrical Systems,  SCADA
-% Hobbies.Others.............................Competitive Programming (Pupil), PR & Marketing, LitSoc
+% Hobbies.Others....................................Competitive Programming , PR & Marketing, LitSoc
 - Contact 
 . GitHub......................................................................github.com/IamShreshth
 . Instagram...........................................................................@shreshth.2008
@@ -62,7 +62,7 @@ shreshth@dhimole
   <br/>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,apple,mysql,sqlite,postgres,go,rust,mongodb,redis&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,apple,mysql,mongodb,redis&theme=dark" />
   </a>
   <br/>
   <br/>
