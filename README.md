@@ -11,15 +11,15 @@ shreshth@dhimole
 . IDE..........................................................................VS Code / Antigravity
 . Tools.....................................................Docker  /  Git  /  Linux  /  Polygon API
 . Databases..............................................PostgreSQL  /  MongoDB  /  SQLite  /  Redis
-. Advanced......................................RAG / Generative AI / Ollama  /  Cryptography / CDNs
+. Advanced..........................................................Blockchain / Cryptography / CDNs
 .
-. Languages.Programming......................................C,  C++,  Go,  Rust,  Python,  SQL,  JS
-. Languages.Computer..................................................LaTeX,  HTML,  Markdown,  YAML
+. Languages.Programming...........................................C,  C++,  Rust,  Python,  SQL,  JS
+. Languages.Computer.........................................................LaTeX,  HTML,  Markdown
 . Languages.Real.....................................................................English,  Hindi
 .
-% Hobbies.Software.......................................Open Source (Redis),  CP Infra,  Automation
-% Hobbies.Hardware....................................Substation Design,  Electrical Systems,  SCADA
-% Hobbies.Others....................................Competitive Programming , PR & Marketing, LitSoc
+% Hobbies.Software...................................Open Source Software ,  Competitive Programming
+% Hobbies.Hardware............................................Substation Design,  Electrical Systems
+% Hobbies.Others.......................................................Poetry,PR & Marketing, LitSoc
 - Contact 
 . GitHub......................................................................github.com/IamShreshth
 . Instagram...........................................................................@shreshth.2008
