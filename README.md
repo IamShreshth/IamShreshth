@@ -8,18 +8,18 @@ shreshth@dhimole
 . OS..............................................................................macOS Tahoe 26.0,1
 . Host........................................................Indian Institute of Technology Jodhpur
 . Kernel...............................................................B.Tech Electrical Engineering
-. IDE..........................................................................VS Code / Antigravity
-. Tools.....................................................Docker  /  Git  /  Linux  /  Polygon API
-. Databases..............................................PostgreSQL  /  MongoDB  /  SQLite  /  Redis
-. Advanced..........................................................Blockchain / Cryptography / CDNs
+. Uptime...............................................................................Class of 2029
+. IDE........................................................................................VS Code
+. Tools.........................................................................Docker / Git / Linux
+. Databases.................................................................MongoDB / SQLite / Redis
+. Advanced.................................................................Blockchain / Cryptography
 .
-. Languages.Programming...........................................C,  C++,  Rust,  Python,  SQL,  JS
-. Languages.Computer.........................................................LaTeX,  HTML,  Markdown
-. Languages.Real.....................................................................English,  Hindi
+. Languages.Programming...............................................C, C++, Rust, Python, SQL, JS
+. Languages.Computer..........................................................LaTeX, HTML, Markdown
+. Languages.Real......................................................................English, Hindi
 .
-% Hobbies.Software...................................Open Source Software ,  Competitive Programming
-% Hobbies.Hardware............................................Substation Design,  Electrical Systems
-% Hobbies.Others.......................................................Poetry,PR & Marketing, LitSoc
+% Hobbies.Software.....................................Open Source Software, Competitive Programming
+% Hobbies.Others......................................................Poetry, PR & Marketing, LitSoc
 - Contact 
 . GitHub......................................................................github.com/IamShreshth
 . Instagram...........................................................................@shreshth.2008
